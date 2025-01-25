@@ -1,1 +1,1 @@
-A novel approach toward class incremental learning
+A novel approach toward class incremental learning (CIL)
